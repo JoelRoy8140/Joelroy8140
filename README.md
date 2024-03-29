@@ -2,6 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Joelroy8140&label=Profile%20views&color=0e75b6&style=flat" alt="Joelroy8140" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Joelroy8140)](https://github.com/ryo-ma/github-profile-trophy)
+
 I'm a passionate software developer with a strong foundation in web development and a keen interest in building innovative solutions. With a background in HTML, CSS, and JavaScript, coupled with experience in modern frameworks like React and libraries like Node.js, I strive to create elegant and efficient applications.
 
 ### About Me
