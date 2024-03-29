@@ -1,5 +1,7 @@
 ### Hi there, I'm Joel Roy! 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Joelroy8140&label=Profile%20views&color=0e75b6&style=flat" alt="Joelroy8140" /> </p>
+
 I'm a passionate software developer with a strong foundation in web development and a keen interest in building innovative solutions. With a background in HTML, CSS, and JavaScript, coupled with experience in modern frameworks like React and libraries like Node.js, I strive to create elegant and efficient applications.
 
 ### About Me
@@ -8,7 +10,7 @@ I'm a passionate software developer with a strong foundation in web development 
 - 🌱 I’m continuously learning and exploring new technologies to expand my knowledge base.
 - 👯 I’m always open to collaborating on exciting projects that challenge and inspire me.
 - 💬 Ask me about anything related to web development, from front-end design to back-end logic.
-- 📫 You can reach out to me via email at [joelroy@example.com](mailto:joelroy@example.com).
+- 📫 You can reach out to me via email at [joelroy8140@gmail.com](mailto:joelroy8140@gmail.com).
 - ⚡ Fun fact: I'm an avid nature enthusiast and love to incorporate elements of nature into my design aesthetic. I'm also passionate about sports, particularly lawn tennis and arm wrestling. When I'm not coding or competing, you'll likely find me binge-watching my favorite anime series!
 
 ### Skills
@@ -31,6 +33,14 @@ Here are some of the technologies I'm proficient in:
 
 - **Other Languages**:
 - ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joelroy8140&show_icons=true&locale=en&layout=compact&theme=dark" alt="Joelroy8140" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joelroy8140&show_icons=true&locale=en&theme=dark" alt="Joelroy8140" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joelroy8140&theme=dark" alt="Joelroy8140" /></p>
+
 
 
 ### Experience
