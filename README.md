@@ -45,7 +45,7 @@ I have experience working on various projects, ranging from small personal endea
 
 I'm an enthusiastic participant in hackathons, having participated in over 4 hackathons. Notable achievements include:
 
-1. Reaching the state level or finals in one of the hackathons.
+1. Reaching the finals in one of the hackathons.
 2. Participating in "Hack This Fall" and contributing innovative solutions.
 3. Participating in hackathons conducted by SSIP.
 
