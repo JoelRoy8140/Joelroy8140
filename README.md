@@ -8,7 +8,7 @@ I'm a passionate software developer with a strong foundation in web development 
 
 ### About Me
 
-- 🔭 I’m currently working on honing my skills in full-stack development.
+- 🔭 I’m currently working on honing my skills in Data Science Field
 - 🌱 I’m continuously learning and exploring new technologies to expand my knowledge base.
 - 👯 I’m always open to collaborating on exciting projects that challenge and inspire me.
 - 💬 Ask me about anything related to web development, from front-end design to back-end logic.
