@@ -1,83 +1,156 @@
-### Hi there, I'm Joel Roy! 👋
+<h1 align="center">Hi 👋, I'm Joel Cyriac Roy</h1>
+<h3 align="center">Aspiring Data Engineer | Applied ML | Cloud & Pipeline Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Joelroy8140&label=Profile%20views&color=0e75b6&style=flat" alt="Joelroy8140" /> </p>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Joelroy8140)](https://github.com/ryo-ma/github-profile-trophy)
+## 📍 About Me
 
-I'm a passionate software developer with a strong foundation in web development and a keen interest in building innovative solutions. With a background in HTML, CSS, and JavaScript, coupled with experience in modern frameworks like React and libraries like Node.js, I strive to create elegant and efficient applications.
+I build systems that process data, transform it, and turn it into actionable intelligence.
 
-### About Me
+My focus is on:
+- 🐍 Python-based data processing
+- ☁️ Cloud data pipelines
+- ⚙️ Distributed systems
+- 🧠 Applied machine learning
+- 📦 Production-ready packaging & deployment
 
-- 🔭 I’m currently working on honing my skills in Data Science Field
-- 🌱 I’m continuously learning and exploring new technologies to expand my knowledge base.
-- 👯 I’m always open to collaborating on exciting projects that challenge and inspire me.
-- 💬 Ask me about anything related to web development, from front-end design to back-end logic.
-- 📫 You can reach out to me via email at [joelroy8140@gmail.com](mailto:joelroy8140@gmail.com).
-- ⚡ Fun fact: I'm an avid nature enthusiast and love to incorporate elements of nature into my design aesthetic. I'm also passionate about sports, particularly lawn tennis and arm wrestling. When I'm not coding or competing, you'll likely find me binge-watching my favorite anime series!
+I believe in building real systems — not just notebooks.
 
-### Skills
+---
 
-Here are some of the technologies I'm proficient in:
+# 🏆 Flagship Project
 
-**Databases**:
-  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Oracle Badge](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+## 🩺 Body-Fat % & BMI Live Scanner  
+🔗 https://github.com/JoelRoy8140/Bodyfat-BMI-Scanner  
 
-- **Programming Languages**:
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL Badge](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Real-time computer vision system that estimates body-fat percentage and BMI using pose estimation, geometric modeling, and machine learning.
 
-- **Big Data Technologies**:
-  ![Hadoop Badge](https://img.shields.io/badge/Hadoop-FF9900?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-  ![Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-  ![Hive Badge](https://img.shields.io/badge/Hive-FFB300?style=for-the-badge&logo=apache-hive&logoColor=white)
-  ![HDFS Badge](https://img.shields.io/badge/HDFS-FF6600?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+---
 
-- **Data Visualization Tools**:
-  ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+### 🎥 Computer Vision & Pose Estimation
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow--Lite-FF6F00?style=for-the-badge&logo=tensorflow)
 
-- **Data Analysis Tools**:
-  ![Excel Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![SPSS Badge](https://img.shields.io/badge/SPSS-7A005C?style=for-the-badge&logo=ibm&logoColor=white)
-  ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- Live video capture pipeline using `cv2.VideoCapture`
+- Extracted 33+ 2D pose landmarks at ~15+ FPS
+- Rendered real-time skeletal overlays
 
-- **Version Control**:
-  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joelroy8140&show_icons=true&locale=en&layout=compact&theme=dark" alt="Joelroy8140" /></p>
+### 📐 Measurement Engine
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joelroy8140&show_icons=true&locale=en&theme=dark" alt="Joelroy8140" /></p>
+- Converted pixel distances to real-world centimeters using height scaling
+- Implemented vector-based landmark distance calculations
+- Real-time geometric feature extraction
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joelroy8140&theme=dark" alt="Joelroy8140" /></p>
+---
 
+### 🧠 Anthropometric Modeling & ML
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
+- Implemented US Navy body-fat formula
+- Built LinearRegression model trained on waist, hip, neck, height, and weight
+- Compared formula-based vs ML predictions
 
-### Experience
+---
 
-I have experience working on various projects, ranging from small personal endeavors to collaborative team efforts. Some highlights include:
+### 🖥️ Interface, Reporting & Packaging
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-000000?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
 
-- Developing a responsive e-commerce website using React and integrating it with a backend Node.js server.
-- Building RESTful APIs with Express.js and MongoDB for a social media application.
-- Contributing to open-source projects on GitHub, enhancing my skills through collaboration and code reviews.
+- Desktop UI with live skeletal visualization
+- Session logging to CSV
+- PDF report generation
+- Packaged as standalone Windows executable
+- Unit-tested core logic
 
-### Hackathon Experience
+---
 
-I'm an enthusiastic participant in hackathons, having participated in over 4 hackathons. Notable achievements include:
+# ☁️ Azure Data Engineering Pipeline
 
-1. Reaching the finals in one of the hackathons.
-2. Participating in "Hack This Fall" and contributing innovative solutions.
-3. Participating in hackathons conducted by SSIP.
+Designed and implemented an end-to-end cloud data pipeline using Microsoft Azure.
 
-### Interests
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
+![Data Flow](https://img.shields.io/badge/Data%20Flow-FF6F00?style=for-the-badge)
 
-Outside of coding, I enjoy playing lawn tennis, participating in arm wrestling competitions, and indulging in my passion for anime by watching my favorite series.
+- Designed source → transformation → sink workflow
+- Built orchestration using Azure Data Factory pipelines
+- Implemented Data Flow transformations (filtering, column mapping, derived columns)
+- Automated execution using triggers
+- Applied ETL design principles in a cloud environment
 
-### Let's Connect
+---
 
-If you share a passion for technology and creativity, I'd love to connect with you! Feel free to reach out via email or connect with me on [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-roy-74198322b/)
+# 🚀 Other Key Projects
 
+### 📊 Uber Data Analysis  
+🔗 https://github.com/JoelRoy8140/Uber-analysis  
+- Data cleaning and visualization using Python, Pandas
 
-Let's collaborate and create something amazing together!
+### ✈️ Aviation Data Analysis  
+🔗 https://github.com/JoelRoy8140/Data-Aviation-Analysis  
+- Exploratory data analysis in Jupyter Notebook
+
+### 🌿 DailyGreen Eco Empower  
+🔗 https://github.com/JoelRoy8140/dailygreen-eco-empower  
+- Full-stack TypeScript application
+
+### 🗂️ Data Engineering Practice  
+🔗 https://github.com/JoelRoy8140/data-engineering-practice  
+- ETL-style data transformation logic and pipeline practice
+
+---
+
+# 🧠 Core Technical Stack
+
+### 🐍 Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+---
+
+### ☁️ Cloud & Data Engineering
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark)
+![ETL](https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+### 🌐 Backend & Systems
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoelRoy8140&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelRoy8140&theme=dark" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 joelroy8140@gmail.com  
+💼 https://www.linkedin.com/in/joel-roy-74198322b/
+
+---
+
+> Engineer systems. Move data. Build intelligently.
